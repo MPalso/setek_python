@@ -316,3 +316,6 @@ kalkulacka() """
 
 n = int(input("Zadaj cislo : "))
 kontorla_prvocisla(n) """
+
+###pokracujem
+##66. Python - Tvoříme vlastní šifrovací nástroj, Caesarova šifra 17:07
